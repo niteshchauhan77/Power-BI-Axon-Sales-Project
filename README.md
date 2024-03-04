@@ -5,7 +5,7 @@
   To address this issue, the company has decided to implement a Business Intelligence (BI) tool that can help them manage and analyze their sales data effectively.
 
 # Objective
-The objective of this project is to understand the sales data of Axon classic models and help the management understand the sales trend of classic models and distribution of sales over a period of three yeears among various different products from Axon productLine. The project also should display relevant information in regards to diiferent aspects which are impacting sales and how they can make changes in order to improve sales worldwide.
+The objective of this project is to understand the sales data of Axon classic models and help the management understand the sales trend of classic models and distribution of sales over a period of three years among various different products from Axon Classic Models product Line. The project also should display relevant information in regards to different aspects which are impacting sales and how they can make changes in order to improve sales worldwide.
 
 # Sales Analysis
 ![image](https://github.com/niteshchauhan77/Power-BI-Axon-Sales-Project/assets/146424285/c04268b6-4357-4ec8-be2a-01c4e1b80a1b)
